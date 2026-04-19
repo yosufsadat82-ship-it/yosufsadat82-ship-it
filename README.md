@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hey, I'm Yosuf 👋
+
+> *"Still loading... please wait."*
+
+Student at Seneca Polytechnic, figuring out how computers work —
+one shell script at a time.
+
+## 🛠️ What I work with
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📌 Currently
+- 🎓 Studying at Seneca Polytechnic
+- 🔧 Building things, breaking things, fixing things
+- 🚀 Always shipping something new
+
+---
+*"Ship it."* — hence the username.
+
 
 <!--
 **yosufsadat82-ship-it/yosufsadat82-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
